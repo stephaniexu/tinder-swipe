@@ -1,0 +1,43 @@
+favorite
+John-> Angela
+{
+"swiper": "5a4fe529ad20ca040ddf623a",
+"swipee": "5a4fe6a1ad20ca040ddf623c"
+}
+
+Angela -> John
+
+{
+"swiper": "5a4fe6a1ad20ca040ddf623c",
+"swipee": "5a4fe529ad20ca040ddf623a"
+}
+
+
+John -> Julie
+
+{
+"swiper": "5a4fe529ad20ca040ddf623a",
+"swipee": "5a4ff679ad20ca04b15ee844"
+}
+
+
+
+Dismiss
+
+John-> susan
+{
+"swiper": "5a4fe529ad20ca040ddf623a",
+"swipee": "5a4ff28cad20ca049d1af923"
+}
+
+
+
+
+
+{
+"firstName": "Larry",
+"lastName": "Ferris",
+"photoUrl": "http://testcdn.com/larryferris.png",
+"gender": "male",
+"birthday":"1981-02-07"
+}
