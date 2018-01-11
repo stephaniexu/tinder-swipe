@@ -1,0 +1,6 @@
+{
+  "url": "http://localhost:8080/account",
+  "method": "PUT",
+  "headers": {},
+  "body": "{\"firstName\": \"Amy\",\"gender\": \"female\",\"birthday\":\"1990-02-07\"}"
+}

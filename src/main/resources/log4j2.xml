@@ -24,6 +24,8 @@
     <Loggers>
         <Logger name="com.playground.tinderswipe" level="info" />
 
+        <Logger name="com.playground.tinderswipe.TinderSwipeClient" level="debug" />
+
         <Logger name="com.playground.tinderswipe.controller" level="debug" />
 
         <Logger name="com.playground.tinderswipe.service" level="debug" />
